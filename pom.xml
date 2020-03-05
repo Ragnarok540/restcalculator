@@ -114,9 +114,11 @@
 		<mockito.version>2.8.9</mockito.version>
 		<mavencompiler.version>3.6.1</mavencompiler.version>
 
-		<sonar.projectKey>demosonarcloudgithub_restcalculator</sonar.projectKey>
-		<sonar.organization>demosonarcloudgithub</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>e57b6bc0b42dba936c69b86a78487027131eda9d</sonar.login>		
-	</properties>
+<properties>
+  <sonar.projectKey>Ragnarok540_restcalculator</sonar.projectKey>
+  <sonar.organization>ragnarok540</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>a5cfb52b701ff1c473923cf4121cf960be214ef5</sonar.login>
+</properties>	
+
 </project>
